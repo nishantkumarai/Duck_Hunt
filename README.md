@@ -1,1 +1,1 @@
-#Duck Hunt
+Duck Hunt
