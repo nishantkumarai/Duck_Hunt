@@ -1,0 +1,7 @@
+﻿  GreenDuckController.cpp
+  RedDuckController.cpp
+  EnemyService.cpp
+  Generating Code...
+V:\Outscale Projects\Duck-Hunt\Duck-Hunt-Main\Duck Hunt\Source\Enemy\EnemyService.cpp(66,1): warning C4715: 'Enemy::EnemyService::CreateEnemy': not all control paths return a value
+V:\Outscale Projects\Duck-Hunt\Duck-Hunt-Main\Duck Hunt\Source\Enemy\EnemyService.cpp(156,1): warning C4715: 'Enemy::EnemyService::DestroyEnemyAtMousePosition': not all control paths return a value
+  Duck Hunt.vcxproj -> V:\Outscale Projects\Duck-Hunt\Duck-Hunt-Main\Duck Hunt\x64\Debug\Duck Hunt.exe
